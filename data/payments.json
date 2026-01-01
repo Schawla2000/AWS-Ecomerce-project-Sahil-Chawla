@@ -1,0 +1,10 @@
+[{"payment_id": 9001, "order_id": 5001, "method": "Card", "status": "Paid", "amount": 80},
+{"payment_id": 9002, "order_id": 5002, "method": "UPI", "status": "Paid", "amount": 150},
+{"payment_id": 9003, "order_id": 5003, "method": "Card", "status": "Failed", "amount": 60},
+{"payment_id": 9004, "order_id": 5004, "method": "Wallet", "status": "Paid", "amount": 115},
+{"payment_id": 9005, "order_id": 5005, "method": "Card", "status": "Paid", "amount": 140},
+{"payment_id": 9006, "order_id": 5006, "method": "Card", "status": "Pending", "amount": 75},
+{"payment_id": 9007, "order_id": 5007, "method": "Cash", "status": "Paid", "amount": 185},
+{"payment_id": 9008, "order_id": 5008, "method": "UPI", "status": "Paid", "amount": 95},
+{"payment_id": 9009, "order_id": 5009, "method": "Card", "status": "Paid", "amount": 110},
+{"payment_id": 9010, "order_id": 5010, "method": "Wallet", "status": "Paid", "amount": 160}]

@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,status,total_amount,product_id
+5001,1,10-02-2024,Completed,150,501
+5002,2,12-02-2024,Pending,200,502
+5003,3,13-02-2024,Completed,300,503
+5004,4,15-02-2024,Completed,420,501
+5005,5,18-02-2024,Cancelled,350,503
+5006,6,20-02-2024,Completed,140,507
+5007,7,21-02-2024,Cancelled,340,507
+5008,8,22-02-2024,Completed,650,508
+5009,9,23-02-2024,Completed,700,509
+5010,10,25-02-2024,Pending,300,510

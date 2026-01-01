@@ -1,0 +1,11 @@
+customer_id,name,email,signup_date
+1,John Doe,john@example.com,01-01-2024
+2,Alice Smith,alice@example.com,12-02-2024
+3,Robert King,rob.king@example.com,03-03-2024
+4,Sophia Patel,sophia.patel@example.com,10-02-2024
+5,Maria Gomez,maria.gomez@example.com,20-02-2024
+6,Liam Brown,liam.brown@example.com,01-03-2024
+7,Olivia Wilson,olivia.wilson@example.com,05-03-2024
+8,Noah Taylor,noah.taylor@example.com,12-03-2024
+9,Ava Johnson,ava.johnson@example.com,15-03-2024
+10,Emma Garcia,emma.garcia@example.com,22-03-2024
