@@ -54,4 +54,4 @@ Included:
 ---
 
 ## 📝 Author
-Designed by Yogesh Jore
+Designed by Sahil Chawla
